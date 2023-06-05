@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NesSan974
-- 👀 I’m interested in Gaming, Programmation, Hacking and Informatique in general
+- 👀 I’m interested in Gaming, Programmation, Hacking 
 - 🌱 I’m currently learning Game developpement, Blockchain / smart Contract
 - 📫 How to reach me quentin.calpetard@gmail.com
